@@ -3,8 +3,8 @@
 int main() {
     
     char nome1 [50];
-    char estado1 [3] ;
-    char codigo1 [5];
+    char estado1 [3];
+    char codigo1 [50];
     int numero_de_pontos_turisticos1;
     int populacao1;
     float PIB1;
